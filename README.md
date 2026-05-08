@@ -11,10 +11,12 @@ I am currently studying at **COMSATS University Islamabad, Abbottabad Campus** a
 *   **Tools:** Git, GitHub, VS Code
 
 ### 📂 Key Projects
-*   **Hospital Management System:** A full requirement analysis and UML-modeled system.
+*   **weather APP:** A full requirement analysis and UML-modeled system.
 *   **Service Booking App:** A Java-based backend with a modern UI dashboard.
 *   **Professional Portfolio:** (https://sohail995320.github.io/portfolio/)
 
 ### 📈 Currently Learning
 *   Advanced Database Management
+*   Advanced DSA
+*   SOftware ENgineering
 *   Calculus for Computer Science
