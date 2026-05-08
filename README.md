@@ -12,7 +12,9 @@ I am currently studying at **COMSATS University Islamabad, Abbottabad Campus** a
 
 ### 📂 Key Projects
 *   **weather APP:**  https://sohail995320.github.io/Weather-App/
-*   **Service Booking App:** A Java-based backend with a modern UI dashboard.
+*   **Calculator:** 
+*   watch :**
+*   Stopwatch :**
 *   **Professional Portfolio:** (https://sohail995320.github.io/portfolio/)
 
 ### 📈 Currently Learning
