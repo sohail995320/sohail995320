@@ -11,7 +11,7 @@ I am currently studying at **COMSATS University Islamabad, Abbottabad Campus** a
 *   **Tools:** Git, GitHub, VS Code
 
 ### 📂 Key Projects
-*   **Alidrees-Enterprises:**
+*   **Alidrees-Enterprises:**  https://sohail995320.github.io/Alidrees-Enterprises/
 *   **weather APP:**  https://sohail995320.github.io/Weather-App/
 *   **Calculator:**  https://sohail995320.github.io/Calculator/
 *   watch :**    https://sohail995320.github.io/Watch/
