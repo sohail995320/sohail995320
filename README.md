@@ -16,7 +16,7 @@ I am currently studying at **COMSATS University Islamabad, Abbottabad Campus** a
 *   **Calculator:**  https://sohail995320.github.io/Calculator/
 *      watch:**    https://sohail995320.github.io/Watch/
 *   Stopwatch :**   https://sohail995320.github.io/Stopwatch/
-*   **conter-app:**
+*   **conter-app:**  https://sohail995320.github.io/Counter-app/
 *   **Joke-generator:**  https://sohail995320.github.io/Joke-generator/
 *   **Professional Portfolio:** (https://sohail995320.github.io/portfolio/)
 
