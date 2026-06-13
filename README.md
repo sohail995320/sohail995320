@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sohail!
 
-### 🚀 Computer Science Student | Frontend & Java Developer
+### 🚀 Software Engineering Student | Frontend & Java Developer
 I am currently studying at **COMSATS University Islamabad, Abbottabad Campus** and focusing on building efficient, user-centric software solutions.
 
 ---
@@ -14,11 +14,14 @@ I am currently studying at **COMSATS University Islamabad, Abbottabad Campus** a
 *   **Alidrees-Enterprises:**  https://sohail995320.github.io/Alidrees-Enterprises/
 *   **weather APP:**  https://sohail995320.github.io/Weather-App/
 *   **Calculator:**  https://sohail995320.github.io/Calculator/
-*   watch :**    https://sohail995320.github.io/Watch/
+*      watch:**    https://sohail995320.github.io/Watch/
 *   Stopwatch :**   https://sohail995320.github.io/Stopwatch/
+*   **conter-app:**
+*   **Joke-generator:**
 *   **Professional Portfolio:** (https://sohail995320.github.io/portfolio/)
 
 ### 📈 Currently Learning
+*   React
 *   Advanced Database Management
 *   Advanced DSA
 *   SOftware ENgineering
